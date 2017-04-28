@@ -1,2 +1,4 @@
-import cocos2d
-2
+import cocos
+
+class MainLayer(cocos.layer.Layer):
+    pass
